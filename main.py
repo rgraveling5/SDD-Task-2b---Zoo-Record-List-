@@ -15,6 +15,10 @@ for i in range (2):
 
   all_animals.append(animal)
 
+  print
+
+  
+
 
 
 
